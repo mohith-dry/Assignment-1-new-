@@ -1,18 +1,33 @@
-Lists practice project
-pizza
-sushi
-pasta
-shawarma
-college work
-home work
-gym
-study
-paris
-australia
-japan
-india
-valorant
-genshin impact
-cs go
-gta v
-call of duty:mordern warfare
+
+<html>
+<head>
+<tittle>Lists practice project</tittle>
+</head>
+<body>
+<ul>
+<li>pizza</li>
+<li>sushi</li>
+<li>pasta</li>
+<li>shawarma</li>
+</ul>
+<ol>
+<li>college work</li>
+<li>home work</li>
+<li>gym</li>
+<li>study</li>
+</ol>
+<ul>
+<li>paris</li>
+<li>australia</li>
+<li>japan</li>
+<li>india</li>
+</ul>
+<ol>
+<li>valorant</li>
+<li>genshin impact</li>
+<li>cs go</li>
+<li>gta v</li>
+<li>call of duty:mordern warfare</li>
+</ol>
+</body>
+</html>
